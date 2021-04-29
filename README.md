@@ -33,24 +33,24 @@ You will need to be able to:
 
 ### Instructions
 
-###### 1. Subtract 1 from all of the even-indexed bytes. Add 1 to all of the odd-indexed bytes.
+1. Subtract 1 from all of the even-indexed bytes. Add 1 to all of the odd-indexed bytes.
 
-###### 2. For each byte (except the first), perform an XOR operation with the previous byte.
+2. For each byte (except the first), perform an XOR operation with the previous byte.
 - example:
     1. `11110000 00111100 00001111 11111111`
     2. `11110000 11001100 00001111 11111111` byte 2 is XORed with byte 1.
     3. `11110000 11001100 11000011 11111111` byte 3 is XORed with byte 2.
     4. `11110000 11001100 11000011 00111100` byte 4 is XORed with byte 3.
 
-###### 3. For each byte, swap the first two bits with the last two bits
+3. For each byte, swap the first two bits with the last two bits
 - examples:
     - `01000010` -> `10000001`
     - `11001100` -> `00001111`
     - etc.
 
-###### 4. Finally, flip *all* of the bits.
+4. Finally, flip *all* of the bits.
 
-###### 5. Use whatever method you like to translate enough of the ascii into text that you can identify the quote.
+5. Use whatever method you like to translate enough of the ascii into text that you can identify the quote.
 
 ### Congratulations!
 
@@ -62,8 +62,8 @@ BUT for *fame* and *glory* look no further than the:
 
 For these I would recommend finding a better way of getting your ascii values out of the debugger so you can check your work. I used text editor macros.
 
-###### 1. Remove the 2nd word (I mean an actual word, not computer .words)
+1. Remove the 2nd word (I mean an actual word, not computer .words)
 
-###### 2. Replace the 16th word with "sad" (making the array smaller)
+2. Replace the 16th word with "sad" (making the array smaller)
 
-###### 3. Replace the 23rd word with "terrible" (making the array bigger)
+3. Replace the 23rd word with "terrible" (making the array bigger)
