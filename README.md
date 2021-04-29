@@ -64,6 +64,6 @@ For these I would recommend finding a better way of getting your ascii values ou
 
 ###### 1. Remove the 2nd word (I mean an actual word, not computer .words)
 
-###### 2. Replace the 16th word with "sad"
+###### 2. Replace the 16th word with "sad" (making the array smaller)
 
-###### 3. Replace the 23rd word with "terrible"
+###### 3. Replace the 23rd word with "terrible" (making the array bigger)
