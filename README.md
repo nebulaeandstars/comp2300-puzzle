@@ -7,8 +7,9 @@ arrays. Overall, it will probably take about an hour to get through depending on
 whether or not you want to have a crack at the *super-ultra-mega-challenge*.
 
 Because I'm bored and like chaos, there will be chocolate/some other
-confectionery for the first person to get through the gauntlet. That being said,
-the assignment is probably more important.
+confectionery for the first person to get through the gauntlet. That being said
+the assignment is definitely more important, so don't let me distract you if you 
+haven't started.
 
 ### The rules
 
